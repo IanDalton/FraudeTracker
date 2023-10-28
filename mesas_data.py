@@ -13,9 +13,6 @@ with open('valid_proxies.txt','r') as f:
 
 
 
-def get_image(mesa:str, session:aiohttp.ClientSession):
-    url = f'https://resultados.gob.ar/backend-difu/scope/data/getTiff/{mesa}'
-    pass
 
 # https://resultados.gob.ar/backend-difu/scope/data/getTiff/{mesa}
 

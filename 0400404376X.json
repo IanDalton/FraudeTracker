@@ -1,0 +1,191 @@
+{
+    "id": {
+        "idAmbito": {
+            "level": 8.0,
+            "codigo": "0400404376X",
+            "scopeId": {
+                "timestamp": 0.0,
+                "counter": 16116398.0,
+                "randomValue1": 0.0,
+                "randomValue2": 23865.0
+            }
+        },
+        "eleccionId": 1.0,
+        "envio": 21.0
+    },
+    "date": "Oct 22, 2023, 8:08:35 PM",
+    "fathers": [
+        {
+            "level": 7.0,
+            "name": "INST SANTO DOMINGO",
+            "codigo": "040040005600621",
+            "scopeId": {
+                "timestamp": 0.0,
+                "counter": 1783369.0,
+                "randomValue1": 364.0,
+                "randomValue2": 10599.0
+            }
+        },
+        {
+            "level": 6.0,
+            "name": "00056",
+            "codigo": "0400400056",
+            "scopeId": {
+                "timestamp": 0.0,
+                "counter": 11023158.0,
+                "randomValue1": 0.0,
+                "randomValue2": 238.0
+            }
+        },
+        {
+            "level": 4.0,
+            "name": "Cruz del Eje",
+            "codigo": "04004",
+            "scopeId": {
+                "timestamp": 0.0,
+                "counter": 40044.0,
+                "randomValue1": 0.0,
+                "randomValue2": 0.0
+            }
+        },
+        {
+            "level": 2.0,
+            "name": "C\u00f3rdoba",
+            "codigo": "04",
+            "scopeId": {
+                "timestamp": 0.0,
+                "counter": 42.0,
+                "randomValue1": 0.0,
+                "randomValue2": 0.0
+            }
+        },
+        {
+            "level": 1.0,
+            "name": "Argentina",
+            "codigo": "1",
+            "scopeId": {
+                "timestamp": 0.0,
+                "counter": 11.0,
+                "randomValue1": 0.0,
+                "randomValue2": 0.0
+            }
+        }
+    ],
+    "cargos": 0.0,
+    "showCargos": 0.0,
+    "census": 347.0,
+    "pollingCensus": 347.0,
+    "numStation": 1.0,
+    "pollingNumStation": 1.0,
+    "pollingPercCensus": 100.0,
+    "pollingPercStation": 100.0,
+    "electores": 253.0,
+    "sobres": 253.0,
+    "nulos": 2.0,
+    "percNulos": 1.09,
+    "recurridos": 0.0,
+    "percRecurridos": 0.0,
+    "blancos": 0.0,
+    "percBlancos": 0.0,
+    "comando": 0.0,
+    "percComando": 0.0,
+    "impugnados": 4.0,
+    "percImpugnados": 2.19,
+    "totalVotos": 182.0,
+    "afirmativos": 176.0,
+    "percAfirmativos": 96.7,
+    "abstencion": 165.0,
+    "percAbstencion": 47.55,
+    "valid": 176.0,
+    "percValid": 96.7,
+    "recImpCom": 4.0,
+    "percRecImpCom": 2.19,
+    "participation": 52.44,
+    "isCircus": 1.0,
+    "umbral": 0.0,
+    "calcPerc": "A",
+    "imagen": {
+        "timestamp": 1698015723.0,
+        "counter": 15860150.0,
+        "randomValue1": 5462394.0,
+        "randomValue2": 863.0
+    },
+    "hayEmpates": false,
+    "partidos": [
+        {
+            "code": "133",
+            "name": "HACEMOS POR NUESTRO PAIS",
+            "codTel": "133",
+            "codLogo": "000133",
+            "votos": 82.0,
+            "perc": 46.59,
+            "percCarg": 46.59,
+            "cargos": 0.0,
+            "candidatos": [
+                "JUAN SCHIARETTI",
+                "FLORENCIO RANDAZZO"
+            ],
+            "listas": []
+        },
+        {
+            "code": "132",
+            "name": "JUNTOS POR EL CAMBIO",
+            "codTel": "132",
+            "codLogo": "000132",
+            "votos": 48.0,
+            "perc": 27.27,
+            "percCarg": 27.27,
+            "cargos": 0.0,
+            "candidatos": [
+                "PATRICIA BULLRICH",
+                "LUIS PETRI"
+            ],
+            "listas": []
+        },
+        {
+            "code": "134",
+            "name": "UNION POR LA PATRIA",
+            "codTel": "134",
+            "codLogo": "000134",
+            "votos": 46.0,
+            "perc": 26.13,
+            "percCarg": 26.13,
+            "cargos": 0.0,
+            "candidatos": [
+                "SERGIO TOMAS MASSA",
+                "AGUSTIN ROSSI"
+            ],
+            "listas": []
+        },
+        {
+            "code": "135",
+            "name": "LA LIBERTAD AVANZA",
+            "codTel": "135",
+            "codLogo": "000135",
+            "votos": 0.0,
+            "perc": 0.0,
+            "percCarg": 0.0,
+            "cargos": 0.0,
+            "candidatos": [
+                "JAVIER GERARDO MILEI",
+                "VICTORIA VILLARRUEL"
+            ],
+            "listas": []
+        },
+        {
+            "code": "136",
+            "name": "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD",
+            "codTel": "136",
+            "codLogo": "000136",
+            "votos": 0.0,
+            "perc": 0.0,
+            "percCarg": 0.0,
+            "cargos": 0.0,
+            "candidatos": [
+                "MYRIAM TERESA BREGMAN",
+                "NICOLAS DEL CA\u00d1O"
+            ],
+            "listas": []
+        }
+    ]
+}
